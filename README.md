@@ -1,2 +1,2 @@
 # Learn_NextJS
-Learn Next.JS
+Learn Next.JS First Project
